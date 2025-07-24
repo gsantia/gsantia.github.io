@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "~"
+title = "Home"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
