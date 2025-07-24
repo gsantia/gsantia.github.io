@@ -1,5 +1,5 @@
-baseurl = "http://www.example.com"
-title = "giovannisantia"
+baseurl = "/"
+title = "~"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -17,11 +17,11 @@ style = "github-dark"
 
 [params]
   author = "Giovanni Santia"
-  info = "Fullstack Engineer and Film Programmer"
+  info = "Fullstack Engineer"
   description = "Giovanni Santia's personal website"
   keywords = "blog,developer,personal"
   #avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+  gravatar = "giovanni.c.santia@gmail.com"
 
   #faviconSVG = "/img/favicon.svg"
   #favicon_32 = "/img/favicon-32x32.png"
