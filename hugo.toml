@@ -46,12 +46,26 @@ style = "github-dark"
 
 # Social links
 [[params.social]]
+  name = "Linkedin"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/giovanni-santia/"
+[[params.social]]
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
   url = "https://github.com/gsantia/"
+[[params.social]]
+  name = "Google Scholar"
+  icon = "fa-brands fa-google-scholar fa-2x"
+  weight = 1
+  url = "https://scholar.google.com/citations?user=alrj1ZwAAAAJ&hl=en"
 
 # Menu links
+[[menu.main]]
+  name = "Resume"
+  weight = 1
+  url = "/giovanni-santia-resume-web.pdf"
 [[menu.main]]
   name = "Blog"
   weight = 1
